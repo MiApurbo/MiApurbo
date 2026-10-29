@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there, I'm Mahmudul Islam 👋
 
-<!--
-**MiApurbo/MiApurbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💼 Current Role
+- **Data Scientist** at **IBM** 
 
-Here are some ideas to get you started:
+### 🎓 Academic Background
+- **PhD Candidate in Quantum Computing** — University of Bristol
+- **MSc in Computer Science / Data Science** — University of Bristol
+- **BSc in Engineering** — Dhaka University of Engineering & Technology (DUET)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📬 Connect with Me
+- **Guthub:** https://github.com/MiApurbo)
+- **Email:** amnisho@yahoo.com
